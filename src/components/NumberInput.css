@@ -1,0 +1,12 @@
+.input-group-text {
+    color: #fff;
+    background-color: rgb(56, 56, 56);
+}
+.form-control {
+    background-color: #000;
+    color: #fff;
+}
+.form-control:focus {
+    background-color: #000;
+    color: #fff;
+}
